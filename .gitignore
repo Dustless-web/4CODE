@@ -1,0 +1,21 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.env
+
+# Node / React Dashboard
+dashboard/node_modules/
+dashboard/dist/
+dashboard/.env
+dashboard/.env.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
